@@ -1,2 +1,2 @@
 # ComingSoon
-Coming Soon Page for nextPrtnr
+Coming Soon Page for nextPrtnr 
